@@ -1,0 +1,62 @@
+{
+  "project_info": {
+    "project_number": "752725069695",
+    "firebase_url": "https://elige-b94e5.firebaseio.com",
+    "project_id": "elige-b94e5",
+    "storage_bucket": "elige-b94e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:752725069695:android:cc5ff0598c8c0092",
+        "android_client_info": {
+          "package_name": "com.asyarif.elige"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "752725069695-s06hitfoi3ciilp7b94iohhf36o70nlc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.asyarif.elige",
+            "certificate_hash": "81386a5d44444b55170bf9585dca2b49ae33f019"
+          }
+        },
+        {
+          "client_id": "752725069695-0076ao2tc5m69aocpbopuaiav85ufn63.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBy4B-gsYHhxXAnRIFLbHnv5qXAjiPqiCM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "752725069695-0076ao2tc5m69aocpbopuaiav85ufn63.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "752725069695-mr42qhojesdb1et5pdgsrgbgc9sf8u8l.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.asyarif.elige"
+              }
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
